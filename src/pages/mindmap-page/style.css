@@ -1,0 +1,19 @@
+.mindmap-page {
+    width: 100%;
+}
+
+.mindmap-content {
+    padding: 30px;
+    width: 90wv;
+    height: 80vh;
+}
+
+.mindmap-title {
+    margin: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 1.334;
+    letter-spacing: 0em;
+    text-align: center;
+}
